@@ -32,7 +32,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -62,7 +62,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
       <ExcludeCaptureProjectTrainingSets>false</ExcludeCaptureProjectTrainingSets>
     </ProcessExportOption>
     <WorkAllocationRules />
@@ -80,7 +80,7 @@
         <Id>CDE204FFA60C4DA18783B18682C969E8</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
         <Name>GHPass</Name>
-        <Version>7</Version>
+        <Version>10</Version>
       </FormIdentity>
     </Forms>
     <FormTemplates />
@@ -215,6 +215,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>Github Test Push Package 1 06-03-2022</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>CDE204FFA60C4DA18783B18682C969E8</Id>
